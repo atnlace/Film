@@ -1,16 +1,4 @@
 #EXTM3U
-
---------INTRO-------
-
-#EXTINF:-1 group-title="KHO 20.000 PHIM" tvg-logo="https://i.imgur.com/2mZjKbS.jpg" tvg-id="",ZALO - 0898.580.569
-http://tvstarlife.com:25461/live/cesar/cesar123/201.m3u8
-
-#EXTINF:-1 group-title="IPTV HBO/CINEMAX/SPORTS+" tvg-logo="https://i.imgur.com/2mZjKbS.jpg" tvg-id="",ZALO - 0898.580.569
-http://tvstarlife.com:25461/live/cesar/cesar123/201.m3u8
-
-#EXTINF:-1 group-title="TV360/FPTPLAY GIÁ RẺ" tvg-logo="https://i.imgur.com/2mZjKbS.jpg" tvg-id="",ZALO - 0898.580.569
-http://tvstarlife.com:25461/live/cesar/cesar123/201.m3u8
-
 #EXTINF:-1 group-title="PHIM LẺ" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2023/04/12/cau-chuyen-luc-nua-dem-fpt-play-1681283587189_Landscape.jpg",🇺🇸| Câu Chuyện Lúc Nửa Đêm
 https://vod03-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20230417/goosebumps-2015-us-f-1681737955/d72e460cdcd623267d8ac8198afff8ae.smil/chunklist_b4392000.m3u8?cc
 #EXTINF:-1 group-title="PHIM LẺ" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/09/20/aladin-va-than-den-sieu-quay-fpt-play-1663663610820_Landscape.jpg",🇺🇸| Aladin Và Thần Đèn Siêu Quậy
