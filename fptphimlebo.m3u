@@ -1,8 +1,3 @@
-#EXTM3U url-tvg="https://vniptv.online/epg/fptplay_phimle.xml"
-#EXTINF:-1 tvg-id="thongtin-forcef5" group-title="PHIM BỘ" tvg-logo="https://img.upanh.tv/2023/02/21/FPT_logo.png",THÔNG TIN & HƯỚNG DẪN
-https://hqth.me/huongdancaidat
-#EXTINF:-1 tvg-id="thongtin-forcef5" group-title="PHIM LẺ" tvg-logo="https://img.upanh.tv/2023/02/21/FPT_logo.png",Nhóm Zalo : https://zalo.me/g/higkqn442
-https://hqth.me/huongdancaidat
 #EXTINF:-1 tvg-id="banner-210-09-2021_06g11-55.jpg_tap1" group-title="PHIM BỘ" tvg-logo="https://hqth.me/KNmnk",Hàng Xóm Của Tôi Không Chịu Lớn - Tập 01
 https://hqth.me/LienHe-Zalo-0789763999-FP3190
 #EXTINF:-1 tvg-id="banner-210-09-2021_06g11-55.jpg_tap2" group-title="PHIM BỘ" tvg-logo="https://hqth.me/KNmnk",Hàng Xóm Của Tôi Không Chịu Lớn - Tập 02
